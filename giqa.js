@@ -9,4 +9,5 @@
 
 //add timeout, maybe it's changed by other js
 setTimeout("document.getElementById('lst-ib').setAttribute('accesskey','1');",5000);
+setTimeout("document.getElementById('pnnext').setAttribute('accesskey','2');",2000);
 //console.log(document.getElementById('lst-ib'));
